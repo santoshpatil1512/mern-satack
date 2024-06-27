@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from "react";
 import { Bar } from "react-chartjs-2";
 import {
@@ -87,9 +88,9 @@ const CountryChart = ({ data }) => {
           <option value="United States of America">
             United States of America
           </option>
-          <option value="Mexico">Mexico</option>
-          <option value="Nigeria">Nigeria</option>
-          <option value="Lebanon">Lebanon</option>
+          <option value="India">India</option>
+          <option value="Canada">Canada</option>
+          <option value="Brazil">Brazil</option>
           <option value="Russia">Russia</option>
           <option value="Saudi Arabia">Saudi Arabia</option>
         </Select>

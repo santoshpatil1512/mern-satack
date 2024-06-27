@@ -42,14 +42,14 @@ const LoginPage = () => {
         borderColor="white" 
         textAlign="center"
       >
-        <h1 style={{ color: 'white' }}>Welcome Admin !!!</h1>
+        <h1 style={{ color: 'white' }}>User Details !!!</h1>
         <form>
           <FormControl>
-            <FormLabel style={{ color: 'white' }}>Admin Email</FormLabel>
+            <FormLabel style={{ color: 'white' }}>User Email</FormLabel>
             <Input
               type="text"
               placeholder="Enter your username"
-              value="admin@gmail.com"
+              value="user@gmail.com"
               borderColor="white" 
               disabled
             />
