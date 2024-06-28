@@ -19,7 +19,7 @@ This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js
 To get started with the BlackCoffer Visualization Dashboard:
 
 1. Clone this repository: `git clone https://github.com/santoshpatil1512/mern-satack.git`
-2. Navigate to the project directory: `cd BlackCoffer-Visualization-Dashboard`
+2. Navigate to the project directory: `cd mern-satack`
 3. Install dependencies:
    - Backend: `cd server && npm install`
    - Frontend: `cd client && npm install`
@@ -27,9 +27,4 @@ To get started with the BlackCoffer Visualization Dashboard:
    - Backend: `cd server && npm start`
    - Frontend: `cd client && npm start`
 
-Open your browser and access the dashboard at [http://localhost:3000](http://localhost:3000).
-
-Feel free to explore the data visualizations and gain valuable insights from your data!
----
-
-We hope you enjoy using the BlackCoffer Visualization Dashboard. If you have any questions or feedback, please don't hesitate to reach out. Happy analyzing!
+Open your browser and access the dashboard at [http://localhost:3000](http://localhost:3000). 
